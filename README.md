@@ -1,4 +1,4 @@
-# boston_price_prediction_visualization
+# boston_house_price_prediction_visualization
 
 -> Visualization of the data set using Tableau.
 
